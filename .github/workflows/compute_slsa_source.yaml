@@ -14,4 +14,3 @@ jobs:
     uses: puerco/source-actions/.github/workflows/compute_slsa_source.yml@main
     with:
       allow-merge-commits: true
-      
