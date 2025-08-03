@@ -15,4 +15,4 @@ jobs:
     uses: slsa-framework/source-actions/.github/workflows/compute_slsa_source.yml@main
     with:
       allow-merge-commits: true
-      build-from-source: true
+      build-from-source: false
